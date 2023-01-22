@@ -8,7 +8,7 @@ DELAY 500
 STRING powershell -w h -NoP -NonI -Exec Bypass Start-Process "
 
 REM put your youtube link here, you should test it out with mine first though ;D 
-STRING https://www.youtube.com/iamjakoby
+STRING https://www.youtube.com/@MrJAH2006
 
 STRING ?sub_confirmation=1"
 DELAY 500
